@@ -75,9 +75,9 @@ VERSION = "QUANTUM_WORKLOAD_LOTO_V1_20261030"
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_2977.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_plus_1733.csv"),
+    Path("/data/loto7_4710_k86.csv"),
+    Path("/data/loto7_4710_k86_loto_2977.csv"),
+    Path("/data/loto7_4710_k86_loto_plus_1733.csv"),
 )
 
 
@@ -2797,9 +2797,9 @@ Rezultat nije menjan radi uklanjanja dijagnostickog obrasca.
 
 ======================================================================
 ZAVRSNI NEXT REZULTATI
-loto7_4710_k86.csv | NEXT: 18 29 32 35 36 37 39 | slojevi: 3 | test NLL: 16.727114748
-loto7_4710_k86_loto_2977.csv | NEXT: 3 6 22 34 35 36 39 | slojevi: 1 | test NLL: 16.736549686
-loto7_4710_k86_loto_plus_1733.csv | NEXT: 3 10 14 16 26 32 33 | slojevi: 1 | test NLL: 16.698736241
+loto7_4710_k86.csv | NEXT: 18 x 32 y 36 z 39 | slojevi: 3 | test NLL: 16.727114748
+loto7_4710_k86_loto_2977.csv | NEXT: 3 x 22 y 35 z 39 | slojevi: 1 | test NLL: 16.736549686
+loto7_4710_k86_loto_plus_1733.csv | NEXT: 3 x 14 y 26 z 33 | slojevi: 1 | test NLL: 16.698736241
 """
 
 
